@@ -1,0 +1,86 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+
+
+
+
+
+<!-- HEADER -->
+<html>
+	<head>
+		<title>Internet Archive Wayback Machine</title>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<link rel="stylesheet" type="text/css" href="http://staticweb.archive.org/css/styles.css" />
+		<base target="_top" />
+	</head>
+	<body>
+<!-- /HEADER -->
+
+
+        <div id="positionHome">
+            <section>
+            <div id="logoHome">
+                <a href="http://wayback.archive.org/web/"><h1><span>Internet Archive's Wayback Machine</span></h1></a>
+            </div>
+            </section>
+            <section>
+            <div id="searchHome">
+                <form name="form1" method="get" action="http://wayback.archive.org/web/form-submit.jsp">
+		    <input type="text" name="url" value="http://grouphug.us/mint/?record&amp;key=3739784764484b314a777a3033323239696971315031&amp;referer=http%3A//wayback.archive.org/web/jsp/Interstitial.jsp%3Fseconds%3D5%26date%3D1193276798000%26url%3Dhttp%253A%252F%252Fgrouphug.us%252F%26target%3Dhttp%253A%252F%252Fweb.archive.org%252Fweb%252F20071025014638%252Fhttp%253A%252F%252Fgrouphug.us%252F&amp;resource=http%3A//web.archive.org/web/20071025014638/http%3A//grouphug.us/&amp;resource_title=group%20hug%20//%20anonymous%20online%20confessions&amp;resource_title_encoded=0&amp;resolution=1920x1080&amp;flash_version=11&amp;window_width=1644&amp;1352316811801" size="40" onfocus="javascript:this.focus();this.select();" >
+		    <button type="submit" name="type" value="replay">Latest</button>
+		    <button type="submit" name="type" value="urlquery">Show All</button>
+                </form>
+            </div>
+            </section>
+            <section>
+            <div id="error">
+
+                <h2>Hrm.</h2>
+                <p>Wayback Machine doesn&apos;t have that page archived. It doesn&apos;t seem to be available on the live web, either.</p>
+
+			    <p>Want to search for all archived pages under <a href="http://wayback.archive.org/web/form-submit.jsp?type=prefixquery&amp;url=http://grouphug.us/">http://grouphug.us/</a> ?</p>
+		
+
+            </div>
+            </section>
+            <div id="errorBorder"></div>
+
+
+
+
+
+<!-- FOOTER -->
+            <footer>
+            <div id="footerHome">
+                <p>The Wayback Machine is an initiative of the <a href="http://www.archive.org/">Internet Archive</a>, a 501(c)(3) non-profit, building a digital library of Internet sites and other cultural artifacts in digital form.<br/>Other <a href="http://www.archive.org/projects/">projects</a> include <a href="http://www.openlibrary.org/">Open Library</a>, </a><a href="http://www.nasaimages.org/">nasaimages.org</a> &amp; <a href="http://www.archive-it.org">archive-it.org</a>.</p>
+                <p>Your use of the Wayback Machine is subject to the Internet Archive's <a href="http://www.archive.org/about/terms.php">Terms of Use</a>.</p>
+            </div>
+            </section>
+        </div>
+    </body>
+</html>
+<!-- /FOOTER -->

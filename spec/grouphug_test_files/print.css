@@ -1,0 +1,130 @@
+
+
+
+
+
+/*
+     FILE ARCHIVED ON 18:35:36 Jun 11, 2007 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 19:34:07 Nov 7, 2012.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/* copyright (c)2003-2004 grouphug.us, gabriel jeffrey */
+/*<group=global>*/
+body
+{
+	background-color: transparent;
+	background-image: none;
+	color: #000;
+	font: .7em Helvetica, Arial, sans-serif;
+}
+
+td, th
+{
+	padding: 0;
+	margin: 0;
+	display: block;
+}
+
+h1 {
+	display: none;
+}
+
+h3
+{
+	
+	font-weight: bold;
+	color: #F30;
+}
+
+a { color: #F30;
+	text-decoration: none;
+}
+
+.screen {
+	display: none;
+}
+
+/*</group>*/
+
+/*<group=layout>*/
+
+#header, #nav
+{
+	display: none;
+}
+
+#content
+{
+	background-color: transparent;
+	width: 100%;
+}
+
+#column1
+{
+	width: 100%;
+}
+/* inline (above) fixes the ie double margin bug */
+
+#column1confessions
+{
+	width: 100%;
+}
+
+#column2
+{
+
+	display: none;
+}
+
+#column2confess
+{
+
+	display: none;
+}
+
+#footer
+{
+	border-top: 1px dotted #F30;
+}
+
+#search form {
+	display: none;
+}
+	
+/*</group>*/
+/*<group=content>*/
+
+#confessions
+{
+	width: 100%;
+}
+
+#confessions p a
+{
+	text-decoration: none;
+	color: #000;
+	border-style: none;
+}
+
+/*</group>*/
+/*<group=footer>*/
+
+#nav-pages
+{
+	width: 300px;
+	margin-left: 90px;
+	display: none;
+}
+
+/*</group>*/
+
+/*<group=news>*/
+#news
+{
+	display: none;
+}
+
+/*</group>*/
